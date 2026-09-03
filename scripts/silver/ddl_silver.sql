@@ -28,7 +28,7 @@ CREATE TABLE silver.crm_prd_info (
 IF OBJECT_ID('silver.crm_sales_details', 'U') IS NOT NULL
   DROP TABLE silver.crm_sales_details;
 CREATE TABLE silver.crm_sales_details (
-	sls_ord_num INT,
+	sls_ord_num NVARCHAR(50), --changed from INT
 	sls_prd_key NVARCHAR(50),
 	sls_cust_id INT,
 	sls_order_dt DATE, --all three changed from INT to DATE after clean
