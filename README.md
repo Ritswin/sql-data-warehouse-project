@@ -5,4 +5,4 @@ Using the Medallion Architecture. Mockup of layers:
 <img width="515" height="256" alt="image" src="https://github.com/user-attachments/assets/933488f3-1685-4832-96f1-16cd23150b9a" />
 
 Drawing of the relationships of tables used for cleaning reference
-<img width="936" height="730" alt="image" src="https://github.com/user-attachments/assets/41ac1af5-5252-4000-bacf-57478b020125" />
+<img width="906" height="694" alt="image" src="https://github.com/user-attachments/assets/60df84dd-7a50-4c9a-a8b1-479f87746fe1" />
